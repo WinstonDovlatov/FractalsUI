@@ -1,0 +1,80 @@
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.exe
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.deps.json
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.json
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.dev.json
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csprojAssemblyReference.cache
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Form1.resources
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.GenerateResource.cache
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfoInputs.cache
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfo.cs
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.CoreCompileInputs.cache
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.genruntimeconfig.cache
+C:\Users\James_Kok\source\repos\FractalsPeer\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Properties.Resources.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.exe
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.deps.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.dev.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csprojAssemblyReference.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Form1.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Properties.Resources.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.GenerateResource.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfoInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfo.cs
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.CoreCompileInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 — копия\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.genruntimeconfig.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.exe
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.deps.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.dev.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csprojAssemblyReference.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Form1.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Properties.Resources.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.GenerateResource.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfoInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfo.cs
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.CoreCompileInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\FractalsPeer4 main\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.genruntimeconfig.cache
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.exe
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.deps.json
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.json
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.dev.json
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csprojAssemblyReference.cache
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Form1.resources
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Properties.Resources.resources
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.GenerateResource.cache
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfoInputs.cache
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfo.cs
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.CoreCompileInputs.cache
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\cumFactory\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.genruntimeconfig.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.exe
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.deps.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.runtimeconfig.dev.json
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\bin\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csprojAssemblyReference.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Form1.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.Properties.Resources.resources
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.GenerateResource.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfoInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.AssemblyInfo.cs
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.csproj.CoreCompileInputs.cache
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.dll
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.pdb
+C:\Users\James_Kok\Desktop\Работы\Информатика. Домашка\8_Фракталы\FractalsPeer\obj\Debug\netcoreapp3.1\FractalsPeer.genruntimeconfig.cache
