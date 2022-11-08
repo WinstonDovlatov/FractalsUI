@@ -20,4 +20,4 @@
 
 ## Интерфейс
 
-[Example](example.jpg)
+![Example](example.jpg)
